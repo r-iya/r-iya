@@ -51,7 +51,7 @@
 
 ### <img src="https://img.shields.io/badge/-~%2Fsystem%2Fconfig%2Fstack-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Stack" />
 
-<div align="center">
+<div >
   <b><img src="https://img.shields.io/badge/-Core_Languages-333333?style=flat-square" /></b><br><br>
   <img src="https://skillicons.dev/icons?i=cpp,java,c,python&theme=dark" /><br><br>
 
