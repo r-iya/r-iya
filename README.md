@@ -51,7 +51,7 @@
 
 ### <img src="https://img.shields.io/badge/-~%2Fsystem%2Fconfig%2Fstack-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Stack" />
 
-<div >
+<div align="center">
   <b><img src="https://img.shields.io/badge/-Core_Languages-333333?style=flat-square" /></b><br><br>
   <img src="https://skillicons.dev/icons?i=cpp,java,c,python&theme=dark" /><br><br>
 
@@ -100,8 +100,27 @@
 <br>
 
 <div align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-iya&theme=react-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br>
+
+
+<div align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-iya&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="65%" />
+</div>
+
+<br>
+
+### <img src="https://img.shields.io/badge/-~%2Fsystem%2Factivity%2Fmatrix-000000?style=for-the-badge&logo=cube&logoColor=white" alt="3D Contribution Matrix" />
+
+<div align="center">
+  <!-- 3D Isometric Contribution Graph -->
+  <a href="https://github.com/r-iya">
+    <img src="https://raw.githubusercontent.com/r-iya/r-iya/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
+  </a>
 </div>
 
 <br>
@@ -114,18 +133,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r-iya/r-iya/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/r-iya/r-iya/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-
-<br>
-
-### <img src="https://img.shields.io/badge/-~%2Fsystem%2Factivity%2Fmatrix-000000?style=for-the-badge&logo=cube&logoColor=white" alt="3D Contribution Matrix" />
-
-<div align="center">
-  <!-- 3D Isometric Contribution Graph -->
-  <a href="https://github.com/r-iya">
-    <img src="https://raw.githubusercontent.com/r-iya/r-iya/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
-  </a>
 </div>
 
 <br>
