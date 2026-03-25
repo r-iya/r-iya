@@ -114,6 +114,23 @@
 
 <br>
 
+### <img src="https://img.shields.io/badge/-~%2Fsystem%2Fmetrics%2Fprogramming-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="Programming" />
+
+<div align="center">
+  <a href="https://leetcode.com/u/Riya5635/">
+    <!-- Removed manual height so the elegant heatmap scales naturally -->
+    <img src="https://leetcard.jacoblin.cool/Riya5635?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" style="margin-bottom: 20px;" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://leetcode.com/u/Riya5635/">
+    <img src="https://img.shields.io/badge/LeetCode-Riya5635-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116" alt="LeetCode"/>
+  </a>
+</div>
+
+<br>
+
 ### <img src="https://img.shields.io/badge/-~%2Fsystem%2Factivity%2Fmatrix-000000?style=for-the-badge&logo=cube&logoColor=white" alt="3D Contribution Matrix" />
 
 <div align="center">
