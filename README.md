@@ -51,7 +51,7 @@
 
 ### <img src="https://img.shields.io/badge/-~%2Fsystem%2Fconfig%2Fstack-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Stack" />
 
-<div align="center">
+<div>
   <b><img src="https://img.shields.io/badge/-Core_Languages-333333?style=flat-square" /></b><br><br>
   <img src="https://skillicons.dev/icons?i=cpp,java,c,python&theme=dark" /><br><br>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-iya&theme=react-dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-iya&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
 
 <br>
