@@ -106,17 +106,6 @@
 
 <br>
 
-### <img src="https://img.shields.io/badge/-~%2Fsystem%2Factivity%2Fmatrix-000000?style=for-the-badge&logo=cube&logoColor=white" alt="3D Contribution Matrix" />
-
-<div align="center">
-  <!-- 3D Isometric Contribution Graph -->
-  <a href="https://github.com/r-iya">
-    <img src="https://raw.githubusercontent.com/r-iya/r-iya/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
-  </a>
-</div>
-
-<br>
-
 ### <img src="https://img.shields.io/badge/-~%2Fsystem%2Factivity%2Fsnake-000000?style=for-the-badge&logo=activity&logoColor=white" alt="Snake Animation" />
 
 <div align="center">
@@ -125,6 +114,18 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r-iya/r-iya/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/r-iya/r-iya/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+
+<br>
+
+### <img src="https://img.shields.io/badge/-~%2Fsystem%2Factivity%2Fmatrix-000000?style=for-the-badge&logo=cube&logoColor=white" alt="3D Contribution Matrix" />
+
+<div align="center">
+  <!-- 3D Isometric Contribution Graph -->
+  <a href="https://github.com/r-iya">
+    <img src="https://raw.githubusercontent.com/r-iya/r-iya/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
+  </a>
 </div>
 
 <br>
